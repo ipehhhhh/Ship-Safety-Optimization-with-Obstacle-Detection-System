@@ -19,8 +19,8 @@ The dataset used for training the system is not included in this repository due 
 
 This repository includes the following files:
 
-- `Valid_data.ipynb`: Jupyter Notebook for training and testing the model.
-- `ecstracted_features,csv`: Directory containing features extracted from the datasets.
+- `Valid_data.ipynb`: Jupyter Notebook for training and testing the model CNN.
+- `pakaiYOLO.py`: YOLOv3 for training and testing the model.
 
 ## Usage
 

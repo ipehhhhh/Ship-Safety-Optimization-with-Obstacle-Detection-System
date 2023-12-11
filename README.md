@@ -13,15 +13,14 @@ This project, focused on ship security optimization, involves the development of
 
 ## Datasets
 
-The dataset used for training the system is not included in this repository due to its size. You can obtain the dataset from [provide link or instructions on where to acquire the dataset].
+The dataset used for training the system is not included in this repository due to its size. You can obtain the dataset from [https://s.ub.ac.id/datasetsproject].
 
 ## Files
 
 This repository includes the following files:
 
-- `Obstacle_Detection_System.ipynb`: Jupyter Notebook for training and testing the model.
-- `pretrained_models/`: Directory containing pre-trained models.
-- [List any other relevant files or directories]
+- `Valid_data.ipynb`: Jupyter Notebook for training and testing the model.
+- `ecstracted_features,csv`: Directory containing features extracted from the datasets.
 
 ## Usage
 

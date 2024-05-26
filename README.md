@@ -1,4 +1,4 @@
-# Ship Security Optimization with Obstacle Detection System
+# Ship Safety Optimization with Obstacle Detection System
 
 ## Overview
 
